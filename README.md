@@ -23,4 +23,3 @@ Element found at index 4
 ```
 
 
-# Simple_Programs_4
